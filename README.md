@@ -1,7 +1,7 @@
 # MuonHLTAnalyser
 An analyser for the muon objects created by the HLT
 
-This code should compile out of the box. Currently it is set to look at objects passing the Mu40 path. Changing the filternames would allow you to look at different pahts.
+This code should compile out of the box. Currently it is set to look at objects passing the Mu40 path. Changing the filter names would allow you to look at different paths.
 
 Simply take a HLT menu (better to specifiy only the path you are interested in, rather than the whole menu):
 hltGetConfiguration /dev/CMSSW_7_2_1/HLT/V56\
